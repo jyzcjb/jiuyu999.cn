@@ -1,4 +1,4 @@
-MIT License
+sourceforge.net 下载加速（中国）.js
 
 Copyright (c) 2024 九欲
 
